@@ -1,7 +1,6 @@
-CREATE DATABASE HR;
-USE HR;
+CREATE DATABASE Office;
+USE Office;
 SELECT * FROM EMP;
-/* MODULE 4 */
 /*1. Display all information in the tables EMP and DEPT.*/
 
 SELECT * FROM EMP;
